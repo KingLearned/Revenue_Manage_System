@@ -1,1 +1,1 @@
-# Revenue_Manage_System
+# Revenue_Management_System

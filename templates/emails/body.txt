@@ -1,0 +1,4 @@
+<img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/1376/Companify-Logo.png" style="display: block; height: auto; border: 0; width: 100%;" width="149" alt="company logo">
+<img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/1376/Img1_2x.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="352" alt="Email logo">
+<p><strong>Verify Your Email Account <br> {{user_name}}</strong></p>
+<p><span style="color:#808389;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodati mat tempor incididunt ut labore et dolore magna aliqua.</span></p>
