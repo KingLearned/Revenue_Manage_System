@@ -6,3 +6,4 @@ class AppConfig(AppConfig):
     name = 'app'
 
 
+
